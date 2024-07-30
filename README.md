@@ -134,9 +134,9 @@ Based on the overall results of the two general experiments conducted, it can be
 
 
 ## Licence
-[__MIT License__](/blob/main/LICENSE)
+[__MIT License__](https://github.com/mahdieslaminet/Surgical_Instrument_Detection_Using_Deep_Neural_Networks/blob/main/LICENSE)
 
 
 ## Issues
-[__MIT License__](/issues)
+[__Issues__](https://github.com/mahdieslaminet/Surgical_Instrument_Detection_Using_Deep_Neural_Networks/issues)
 
