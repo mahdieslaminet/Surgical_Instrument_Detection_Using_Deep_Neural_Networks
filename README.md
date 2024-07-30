@@ -33,7 +33,6 @@ __This is a guide to run this project.__
 
 ```bash
 git clone https://github.com/mahdieslaminet/Surgical_Instrument_Detection_Using_Deep_Neural_Networks
-
 ```
 2. Move these project to __Google Colab__ or _Jupyter Notebook_.
 3. Install projects requirements using this command:
