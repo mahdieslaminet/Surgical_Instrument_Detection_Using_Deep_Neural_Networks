@@ -1,0 +1,10 @@
+opencv-python
+numpy
+pandas
+scikit-learn
+tensorflow
+keras
+matplotlib
+tqdm
+argparse
+requests
