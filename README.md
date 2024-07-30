@@ -127,5 +127,16 @@ Based on the overall results of the two general experiments conducted, it can be
 
 
 ## Links
-1. [__Google Colab link__](https://google.com/)
-2. [__Dataset link__](https://google.com/)
+* __Google Colab__
+    1. [FinalsCodesN2.ipynb](https://drive.google.com/file/d/1rnHDAQNoAwFDNQHqHwxJZoSRyWuXzRwl/view?usp=sharing)
+    2. [FinalsCodesN3.ipynb](https://drive.google.com/file/d/19ICCHK3BmT8l7eZ-Y9XJcElOWol3Q0kR/view?usp=sharing)
+* [__Dataset link__](https://www.kaggle.com/datasets/swamysaxena09/cholec80)
+
+
+## Licence
+[__MIT License__](/blob/main/LICENSE)
+
+
+## Issues
+[__MIT License__](/issues)
+
