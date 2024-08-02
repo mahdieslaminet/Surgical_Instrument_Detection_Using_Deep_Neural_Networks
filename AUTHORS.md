@@ -1,3 +1,3 @@
 # Authors
 * Mohadeseh Parhizkari <mohadesehparhizkari1378@gmail.com>
-* [Telegram](https://t.me/dr.mohadesehparhizkari)
+* Telegram [@mohadesehparhizkari](https://t.me/mohadesehparhizkari)

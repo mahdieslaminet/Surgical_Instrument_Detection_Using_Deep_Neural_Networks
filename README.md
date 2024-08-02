@@ -142,4 +142,4 @@ Based on the overall results of the two general experiments conducted, it can be
 
 ## Authors info
 * Mohadeseh Parhizkari <mohadesehparhizkari1378@gmail.com>
-* [Telegram](https://t.me/dr.mohadesehparhizkari)
+* Telegram [@mohadesehparhizkari](https://t.me/mohadesehparhizkari)
