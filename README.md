@@ -139,3 +139,7 @@ Based on the overall results of the two general experiments conducted, it can be
 ## Issues
 [__Issues__](https://github.com/mahdieslaminet/Surgical_Instrument_Detection_Using_Deep_Neural_Networks/issues)
 
+
+## Authors info
+* Mohadeseh Parhizkari <mohadesehparhizkari1378@gmail.com>
+* [Telegram](https://t.me/dr.mohadesehparhizkari)
