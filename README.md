@@ -42,10 +42,6 @@ pip install -r requirements.txt
 4. Run all the cells.
 
 
-## Video
-![توضیح مقاله بیس و نوآوری و مقاله نوشته شده](./videos/video_توضیح%20مقاله%20بیس%20و%20نوآوری%20و%20مقاله%20نوشته%20شده.mp4)
-
-
 ## Related works
 Currently, deep learning-based machine vision methods are widely used in surgical tool detection. S. Wang et al. [22] proposed a multi-label classification method based on deep learning for surgical tool identification in laparoscopic surgery videos. This method combines VGGNet and GoogLeNet and combines the results of the models through cumulative learning to obtain the final result. Y. Wang et al. [23] and Y. Zhou et al. [24] proposed real-time surgical tool detection based on YOLOv4 and YOLOv5 models respectively, to assist surgeons in minimally invasive surgery. Kaidi Liu et al. [25] proposed an enhanced feature fusion network (EFFNet) for real-time surgical tool detection during surgery, which helps surgeons obtain more comprehensive visual information. A. Jin et al. [26] proposed using region-based convolutional neural networks for tracking and analyzing surgical tools in surgical videos and automatically evaluating the performance of surgeons. Kurmann et al. [27] proposed a method for identifying and estimating the status of surgical tools in minimally invasive surgery scenarios. This method first identifies the surgical tools based on RetinaNet and then estimates the 3D position of the surgical tools based on MASK R-CNN. These two network models use shared layers of convolutional neural networks, which may improve the accuracy of position estimation while maintaining the accuracy of tool detection.
 
